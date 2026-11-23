@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Physique_game/Physique_game.vcxproj" />
+  <Project Path="Cyclone/Cyclone.vcxproj" Id="9664a36b-0868-4aaa-a277-74e304b2888c" />
+  <Project Path="Physique_game/Physique_game.vcxproj" Id="eefcc240-66d6-404e-bf2c-f5ea49304f19" />
+  <Project Path="raylib_librairie/raylib.vcxproj" Id="8898ea18-743a-15ef-5df5-284349369c3f" />
+  <Project Path="Unit_tests/Unit_tests.vcxproj" Id="50eae2e8-2f1b-4734-bb22-d221d09a15f2" />
 </Solution>
